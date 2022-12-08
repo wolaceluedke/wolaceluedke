@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seja bem vindo, tenho 23 anos e atualmente estou estudando para ser full stack developer.
+Seja bem vindo, tenho 23 anos e atualmente estou estudando para ser full stack developer na Tera, porém me identifiquei com front-end e estou em busca de uma vaga no mercado de trabalho para colocar em prática habilidades adquiridas durante o curso, e também aprender no dia a dia com outro profissionais que estão na área.
 
 
 ## 🌐 Socials:
